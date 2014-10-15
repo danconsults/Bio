@@ -26,7 +26,7 @@ ul.timeline li .data {
 	background: #03cc85;
 }
 .pitems .pubmain .pubassets {
-	border-top-color:#03cc85;
+	border-top-color:#03cc85; 
 }
 .pitems .pubmain .pubassets a:hover,.pitems .pubmain .pubassets a:focus,.pitems .pubmain .pubassets a.pubcollapse {
 	background: #03cc85;
@@ -35,7 +35,7 @@ ul.timeline li .data {
 	color: #03cc85;
 }
 
-/* socpndary color
+/* socpndary color 
 **************************************************/
 ul.ul-card li .dy .degree {
 	background-color: #03bb7a;
@@ -55,3 +55,14 @@ ul.timeline li.open .data {
 #labp-heads-wrap:after{
 	border-top-color: #03bb7a;
 }
+
+
+
+
+
+
+
+
+
+
+
