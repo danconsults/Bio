@@ -192,7 +192,7 @@ ul#navigation li {
 	float: none;
 	clear: both;
 	background: #303030;
-	border-top: 4px solid #373737;
+	border-top: 1px solid #373737;
 	border-bottom: 1px solid #2B2B2B;
 
 	-webkit-transition: background 0.5s;
@@ -213,18 +213,9 @@ ul#navigation li:hover,ul#navigation li:focus {
 
 ul#navigation li:hover a,ul#navigation li:focus a {
 	color: #f7f7f7;
-
 }
 
-ul#navigation li:hover,ul#navigation li:focus {
-	background: #363636;
-}
-
-ul#navigation li:hover a,ul#navigation li:focus a {
-	color: #f7f7f7;
-}
-
-ul#navigation li:hover a, ul#navigation li:focus a currentmenu {
+ul#navigation .currentmenu {
 	font-weight: bold;
 }
 
